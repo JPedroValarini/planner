@@ -193,6 +193,7 @@ GEM
     turbolinks-source (5.2.0)
     tzinfo (2.0.5)
       concurrent-ruby (~> 1.0)
+    vueonrails (0.3.0)
     web-console (4.2.0)
       actionview (>= 6.0.0)
       activemodel (>= 6.0.0)
@@ -233,6 +234,7 @@ DEPENDENCIES
   spring
   turbolinks (~> 5)
   tzinfo-data
+  vueonrails
   web-console (>= 4.1.0)
   webdrivers
   webpacker (~> 5.0)
@@ -241,4 +243,4 @@ RUBY VERSION
    ruby 3.0.2p107
 
 BUNDLED WITH
-   2.4.3
+   2.4.5
