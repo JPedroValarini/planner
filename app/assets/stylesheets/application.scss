@@ -13,3 +13,29 @@
  *= require_tree .
  *= require_self
  */
+
+ html { background-color: #000; }
+
+ body {
+    min-height: 100vh;
+    max-width: 100%;
+    background-color: #fff;
+    margin: 0 auto;
+ }
+
+ td {
+   vertical-align: middle;
+ }
+
+ .btn-show {
+    background-color: #377961 !important;
+    border: none !important;
+    color: white !important;
+    padding: 8px !important;
+    text-align: center !important;
+    text-decoration: none !important;
+    display: inline-block !important;
+    font-size: 22px !important;
+    margin: 4px 2px !important;
+    border-radius: 50% !important;
+  }
